@@ -1,0 +1,47 @@
+============================================================
+ANALISIS DE VENTAS
+============================================================
+
+1. LISTA DE VENTAS ORIGINAL:
+   Venta 1: {'fecha': '18-04-2026', 'producto': 'Laptop', 'cantidad': 2, 'precio': 800000}
+   Venta 2: {'fecha': '18-04-2026', 'producto': 'Mouse', 'cantidad': 5, 'precio': 15500}
+   Venta 3: {'fecha': '19-04-2026', 'producto': 'Teclado', 'cantidad': 3, 'precio': 45000}
+   Venta 4: {'fecha': '19-04-2026', 'producto': 'Laptop', 'cantidad': 1, 'precio': 800000}
+   Venta 5: {'fecha': '20-04-2026', 'producto': 'Mouse', 'cantidad': 4, 'precio': 15500}
+   Venta 6: {'fecha': '20-04-2026', 'producto': 'Monitor', 'cantidad': 2, 'precio': 250000}
+   Venta 7: {'fecha': '20-04-2026', 'producto': 'Teclado', 'cantidad': 2, 'precio': 45000}
+
+2. INGRESOS TOTALES: $3264500 CLP
+
+3. PRODUCTO MAS VENDIDO: Mouse (cantidad: 9)
+
+4. PRECIO PROMEDIO POR PRODUCTO:
+   Laptop: $800000.0 CLP
+   Mouse: $15500.0 CLP
+   Teclado: $45000.0 CLP
+   Monitor: $250000.0 CLP
+
+5. INGRESOS POR DIA:
+   18-04-2026: $1677500 CLP
+   19-04-2026: $935000 CLP
+   20-04-2026: $652000 CLP
+
+6. RESUMEN DE VENTAS POR PRODUCTO:
+   Laptop:
+      Cantidad total: 3
+      Ingresos totales: $2400000 CLP
+      Precio promedio: $800000.0 CLP
+   Mouse:
+      Cantidad total: 9
+      Ingresos totales: $139500 CLP
+      Precio promedio: $15500.0 CLP
+   Teclado:
+      Cantidad total: 5
+      Ingresos totales: $225000 CLP
+      Precio promedio: $45000.0 CLP
+   Monitor:
+      Cantidad total: 2
+      Ingresos totales: $500000 CLP
+      Precio promedio: $250000.0 CLP
+
+============================================================
